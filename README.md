@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a student at the University of Minnesota and am working on research projects aimed at improving pedestrian safety and lowering carbon emissions. To learn more or get in touch, please contact me at my [LinkedIn](https://www.linkedin.com/in/dimitri-trifunac-b90039205/). Down below in my public repos you can find some of my notable projects.
+
+
 <!--
 **dtrifunac/dtrifunac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
