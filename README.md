@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent graduate of the University of Minnesota. Please contact me at my [LinkedIn](https://www.linkedin.com/in/dimitri-trifunac-b90039205/). 
+I'm a recent graduate of the University of Minnesota, and current PhD student at Stanford. Please contact me at my [LinkedIn](https://www.linkedin.com/in/dimitri-trifunac-b90039205/). 
 
 <!--
 **dtrifunac/dtrifunac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
